@@ -193,7 +193,45 @@ pipeline and
   <p><sub>three.js · robots · catalog · interactive</sub></p>
   <p><a href="https://github.com/mintdotgg/mint-playground/tree/main/experiences/robot-store">Code</a> · <a href="https://play.mint.gg/robot-store">Live demo</a></p>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+  <a href="https://play.mint.gg/breakline"><img src="https://play.mint.gg/experience-assets/breakline/social-card.webp" alt="A snowboarder carves through a bright alpine course as the HUD tracks closing polar bear and Yeti pursuers." width="100%"></a>
+  <h3>Breakline</h3>
+  <p>Carve a 1.8 km mountain, chain tricks and grinds, and stay ahead of a Yeti and polar bear in a third-person arcade snowboarding chase.</p>
+  <p><sub>Three.js · Snowboarding · Arcade · Sports Game · Rapier</sub></p>
+  <p><a href="https://github.com/mintdotgg/mint-playground/tree/main/experiences/breakline">Code</a> · <a href="https://play.mint.gg/breakline">Live demo</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://play.mint.gg/four-fields"><img src="https://play.mint.gg/experience-assets/four-fields/social-card.webp" alt="A warm storybook miniature farm with a barn, farmhouse, fenced fields, hay bales, and a water trough." width="100%"></a>
+  <h3>Four Fields</h3>
+  <p>Harvest corn, potatoes, tomatoes, and strawberries across four timed plots in a warm storybook miniature farm.</p>
+  <p><sub>React · Three.js · Farming · Arcade</sub></p>
+  <p><a href="https://github.com/mintdotgg/mint-playground/tree/main/experiences/four-fields">Code</a> · <a href="https://play.mint.gg/four-fields">Live demo</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://play.mint.gg/financial-city"><img src="https://play.mint.gg/experience-assets/financial-city/social-card.webp" alt="A daytime miniature financial city with active streets, civic buildings, parks, and dense Metropolitan Ledger architecture." width="100%"></a>
+  <h3>Financial City</h3>
+  <p>Shape a private monthly budget and watch traffic, civic services, construction pressure, and forty city blocks respond in a living miniature metropolis.</p>
+  <p><sub>Next.js · Three.js · Personal Finance · Simulation · Data Visualization</sub></p>
+  <p><a href="https://github.com/mintdotgg/mint-playground/tree/main/experiences/financial-city">Code</a> · <a href="https://play.mint.gg/financial-city">Live demo</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://play.mint.gg/complete-shelf"><img src="https://play.mint.gg/experience-assets/complete-shelf/social-card.webp" alt="A warm editorial 3D bookshelf with colorful procedural hardcovers arranged above a walnut shelf." width="100%"></a>
+  <h3>The Complete Shelf</h3>
+  <p>Browse nineteen procedural hardcovers on a continuous 3D shelf, then pull any volume forward to orbit, zoom, and inspect its editorial details.</p>
+  <p><sub>Three.js · Books · Editorial · Interaction · Showcase</sub></p>
+  <p><a href="https://github.com/mintdotgg/mint-playground/tree/main/experiences/complete-shelf">Code</a> · <a href="https://play.mint.gg/complete-shelf">Live demo</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://play.mint.gg/kirby-smash"><img src="https://play.mint.gg/experience-assets/kirby-smash/social-card.webp" alt="Two colorful fighters battle on a floating three-platform arena above waterfalls and distant sky islands." width="100%"></a>
+  <h3>Kirby Smash</h3>
+  <p>Battle across three floating arenas in a 2.5D platform fighter with four selectable combatants, local two-player or CPU matches, percent damage, stocks, and Smash-style knockback.</p>
+  <p><sub>Three.js · Platform Fighter · Local Multiplayer · Combat · Arcade</sub></p>
+  <p><a href="https://github.com/mintdotgg/mint-playground/tree/main/experiences/kirby-smash">Code</a> · <a href="https://play.mint.gg/kirby-smash">Live demo</a></p>
+</td>
 </tr>
 </table>
 
